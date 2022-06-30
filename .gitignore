@@ -1,0 +1,16 @@
+# directory-based jetbrains project configuration
+.idea/
+
+# file-based jetbrains project configuration
+*.iws
+*.iml
+*.ipr
+
+# manifestation of package.json
+package-lock.json
+
+# node installed dependency directory
+node_modules/
+
+# dotenv environmental variable configuration files
+**/.env
