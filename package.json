@@ -1,0 +1,17 @@
+{
+	"name": "orbweaver",
+	"version": "0.0.1",
+	"description": "A collection of open source Bootstrap components.",
+	"author": "Michael Muzzarelli",
+	"homepage": "https://github.com/muzzarellimj/orbweaver#readme",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/muzzarellimj/orbweaver.git"
+	},
+	"bugs": {
+		"url": "https://github.com/muzzarellimj/orbweaver/issues"
+	},
+	"devDependencies": {
+		"typescript": "^4.7.4"
+	}
+}
